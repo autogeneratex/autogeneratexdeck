@@ -1,0 +1,8 @@
+
+{
+  "name": "AutoGenX Presentation Suite",
+  "description": "A professional, sleek slide deck application designed for AutoGenX discovery calls, featuring high-impact transitions and AI-powered content generation for mobile detailing business scaling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
